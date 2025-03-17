@@ -20,5 +20,5 @@ create requirements.txt
 
 ## Run steamlit app
 ```
-[streamlit run dashboard.py](https://bismillahbisa.streamlit.app/)
+[streamlit run dashboard.py]([(https://andatpython.streamlit.app/))
 ```
